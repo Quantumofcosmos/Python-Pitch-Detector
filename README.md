@@ -15,3 +15,7 @@ The GUI shows the detected frequency, Nearest musical note and octave, by how ma
 Install the require modules using ``pip3 install -r requirements.txt``
 
 After successful installation, launch the app with the command ``python3 detector.py``
+
+FFT reference: spectrum analyzer by sbarratt
+
+Note conversion logic: PitchDetect by markmarijnissen
