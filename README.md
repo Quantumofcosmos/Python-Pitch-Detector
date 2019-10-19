@@ -16,6 +16,9 @@ Install the require modules using ``pip3 install -r requirements.txt``
 
 After successful installation, launch the app with the command ``python3 detector.py``
 
-FFT reference: spectrum analyzer by sbarratt
+
+**Reference:**
 
 Note conversion logic: PitchDetect by markmarijnissen
+
+FFT reference: spectrum analyzer by sbarratt
